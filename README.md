@@ -2,8 +2,17 @@
 This is my public portfolio, showcasing my projects and skills
 (Github Pages version is under construction)
 
-# Industry work
+# Public Repositories
+- Math Parser:
+  - https://github.com/BrianGlassman/math_parser
+  - Developed as a coding assessment, an OOP arithmetic parser that takes in a string and evaluates it to return a value
+- Astrodynamics Toolbox:
+  - https://github.com/BrianGlassman/astro_toolbox
+  - Developed for aerospace coursework, a toolbox for creating, manipulating, and plotting orbits in an idealized 2-Body Problem
+
+# Industry Work
 Industry work is not hosted here for the sake of IP.
+
 Please raise an issue if you would like further details.
 
 ### Full-time
@@ -24,19 +33,31 @@ Please raise an issue if you would like further details.
 
 # Classwork
 Classwork is not hosted publicly to avoid showing up when students Google.
+
 Please raise an issue if you would like access to any of the source code or further details.
 
+- Astrodynamics Toolbox:
+  - ASEN 6008 Interplanetary Mission Design - CU Boulder, Spring 2022
+  - ASEN 5052 Analytical Astrodynamics - CU Boulder, Fall 2021
+  - https://github.com/BrianGlassman/astro_toolbox
+  - A toolbox for creating, manipulating, and plotting orbits in an idealized 2-Body Problem [implemented in Python]
 - CSCI 5525 Compiler Construction - CU Boulder, Spring 2022 [implemented in Python]
-  1. A lexer/parser and compiler for generating x86 assembly instructions from arbitrary input in a subset of Python
+  - A lexer/parser and compiler for generating x86 assembly instructions from arbitrary input in a subset of Python
 - CSCI 5828 Foundations of Software Engineering - CU Boulder, Spring 2022
-  1. (Class in progress, check back later)
+  - (Class in progress, check back later)
 - CSCI 5302 Advanced Robotics - CU Boulder, Fall 2021 [implemented in Python]
-  1. Value and Policy Iteration algorithms
-  2. Motion planning with RRT and RRT*
-  3. Final project using ROS to control a simulated Mars rover
+  - Value and Policy Iteration algorithms
+  - Motion planning with RRT and RRT*
+  - Final project using ROS to control a simulated Mars rover
 - CSCI 5448 Object Oriented Analysis and Design - CU Boulder, Fall 2021
-  1. Implementing a store simulation including UML diagrams, various forms of inheritance and pattern usage, and JUnit tests [implemented in Java]
-  2. Recreating a Pokemon battle game using Python, including a TKinter GUI and various forms of inheritance and patterns
+  - Implementing a store simulation including UML diagrams, various forms of inheritance and pattern usage, and JUnit tests [implemented in Java]
+  - Recreating a Pokemon battle game using Python, including a TKinter GUI and various forms of inheritance and patterns
+- Undergraduate work - Drexel University, Fall 2012 - Spring 2017
+  - Primarily C++ and MATLAB, with some projects in Java and Perl
+  - Foundational work such as implementing linked lists, sorting and searching, classes, etc.
+  - An astrodynamics toolbox developed during independent research using OOP in MATLAB. It worked, but I strongly do not recommend doing OOP in MATLAB.
+  - AI and ML work, as well as Game AI development
+  - Senior capstone project which involved developing a tactile sketchpad for the visually impaired, using an arduino and stepper motors
 
 # Game Development
 Version control is provided through Unity Collab and Plastic SCM, so files are not hosted here
