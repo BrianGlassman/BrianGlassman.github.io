@@ -39,3 +39,13 @@ Please raise an issue if you would like access to any of the source code or furt
 - CSCI 5448 Object Oriented Analysis and Design - CU Boulder, Fall 2021
   1. Implementing a store simulation including UML diagrams, various forms of inheritance and pattern usage, and JUnit tests [implemented in Java]
   2. Recreating a Pokemon battle game using Python, including a TKinter GUI and various forms of inheritance and patterns
+
+# Game Development
+Version control is provided through Unity Collab and Plastic SCM, so files are not hosted here
+- AInts: two person team, in-development intermittently from October 2020 to present
+  - Combination city-builder and tower-defence that will feature custom AI, pathfinding, and innovative automation and game mechanics
+  - Responsibilities: lead developer, AI/pathfinding specialist, voxel asset creation
+- Infinit Pachinko: six person team, April 23-26 2021
+  - Developed as part of the Ludum Dare 48 game jam: https://jaxom3.itch.io/infinit-pachinko
+  - Infinitely scrolling pachinko game with collectable coins, purchasable powerups, and a high score tracker
+  - Responsibilities: lead developer
