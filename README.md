@@ -2,8 +2,6 @@
 This is my public portfolio, showcasing my projects and skills
 (Github Pages version is under construction)
 
-# Repo Links
-
 # Industry work
 Industry work is not hosted here for the sake of IP.
 Please raise an issue if you would like further details.
