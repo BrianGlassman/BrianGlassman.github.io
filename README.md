@@ -3,6 +3,10 @@ This is my public portfolio, showcasing my projects and skills
 (Github Pages version is under construction)
 
 # Public Repositories
+- Budget Buckets:
+  - https://github.com/BrianGlassman/Budget_Buckets
+  - A personal budgeting tool using Python and a custom TKinter GUI
+  - Work-in-progress, only initial functionality complete so far
 - Math Parser:
   - https://github.com/BrianGlassman/math_parser
   - Developed as a coding assessment, an OOP arithmetic parser that takes in a string and evaluates it to return a value
@@ -10,26 +14,35 @@ This is my public portfolio, showcasing my projects and skills
   - https://github.com/BrianGlassman/astro_toolbox
   - Developed for aerospace coursework, a toolbox for creating, manipulating, and plotting orbits in an idealized 2-Body Problem
 
+# Work-in-Progress
+- Jobr:
+  - An application for tracking, managing, and analyzing the job search process
+  - SQL back-end, Python logic layer, Flask and HTML front-end
+
 # Industry Work
 Industry work is not hosted here for the sake of IP.
 
 Please raise an issue if you would like further details.
 
 ### Full-time
+- FreeFlyer Software Engineering Intern - a.i. solutions, Remote, May 2022 - August 2022
+  - Wrote formal specifications for enhancements, considering implementation details and user interface
+  - Implemented and tested enhancements to the core C++ codebase, including spacecraft parameters and propagation
+  - Created and tracked tickets in Jira to align with team priorities and inform future work
 - AW609 Flight Mechanics and Simulation - Leonardo Company, Philadelphia PA, January 2018 - July 2021
-  1. Python library for manipulating and analyzing flight and simulation data, used across multiple teams
-  2. C/C++ programs to interface between simulation lab systems
-  3. Introduced testing to ensure data validity and script correctness
-  4. Bash, Python, and Perl scripts for automating data generation, collection, and processing
+  - Python library for manipulating and analyzing flight and simulation data, used across multiple teams
+  - C/C++ programs to interface between simulation lab systems
+  - Introduced testing to ensure data validity and script correctness
+  - Bash, Python, and Perl scripts for automating data generation, collection, and processing
 
 ### Co-op
 - 777X Airframe Design Co-op - Boeing, Ridley Park PA, September 2015 - March 2016
-  1. VBA Excel script to automate a trade study
+  - VBA Excel script to automate a trade study
 - Industrial Engineering Co-op - Shapeways, New York NY, September 2014 - March 2015
-  1. Python script to automatically generate 3D Blender models
-  2. Excel and mySQL to create a production tracker for use on the factory floor
+  - Python script to automatically generate 3D Blender models
+  - Excel and mySQL to create a production tracker for use on the factory floor
 - Manufacturing Engineering Co-op - R. H. Sheppard Co., Hanover PA, September 2013 - March 2014
-  1. VBA Creo (Pro-E) script to automate drawing creation and revision
+  - VBA Creo (Pro-E) script to automate drawing creation and revision
 
 # Classwork
 Classwork is not hosted publicly to avoid showing up when students Google.
