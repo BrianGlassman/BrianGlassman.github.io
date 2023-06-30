@@ -17,7 +17,7 @@ This is my public portfolio, showcasing my projects and skills
 # Work-in-Progress
 - Jobr:
   - An application for tracking, managing, and analyzing the job search process
-  - SQL back-end, Python logic layer, Flask and HTML front-end
+  - ZODB back-end, Python logic layer, Flask and HTML front-end
 
 # Industry Work
 Industry work is not hosted here for the sake of IP.
