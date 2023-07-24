@@ -1,8 +1,4 @@
-# BrianGlassman.github.io
-This is my public portfolio, showcasing my projects and skills
-(Github Pages version is under construction)
-
-# Work-in-Progress
+# Active Projects
 - Jobr:
   - An application for tracking, managing, and analyzing the job search process
   - ZODB back-end, Python logic layer, Flask and HTML front-end
