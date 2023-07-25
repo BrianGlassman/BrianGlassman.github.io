@@ -14,7 +14,7 @@
 # Industry Work
 Industry work is not hosted here for the sake of IP.
 
-Please raise an issue if you would like further details.
+Please click [here](https://github.com/BrianGlassman/BrianGlassman.github.io/issues/new) to submit a request for further details.
 
 ### Recent Employment
 - FreeFlyer Software Engineering Intern - a.i. solutions, Remote, May 2022 - August 2022
@@ -39,7 +39,7 @@ Please raise an issue if you would like further details.
 # Classwork
 Classwork is not hosted publicly to avoid showing up when students Google their homework assignments.
 
-Please raise an issue if you would like access to any of the source code or further details.
+Please click [here](https://github.com/BrianGlassman/BrianGlassman.github.io/issues/new) to submit a request for further details.
 
 - [Astrodynamics Toolbox](https://github.com/BrianGlassman/astro_toolbox) [Python]
   - ASEN 6008 Interplanetary Mission Design - CU Boulder, Spring 2022
